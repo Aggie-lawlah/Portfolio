@@ -26,7 +26,7 @@ const NavBar = () => {
       isScrolled ? "navbar-scroll" : ""
     }`}>
       <div>
-        <h1 className="text-5xl font-signature ml-2">Oluwatoyin</h1>
+        <h1 className="text-5xl font-signature ml-2">Agnes</h1>
       </div>
       <ul className="hidden md:flex">
         {navLinks.map(({id, text}) =>

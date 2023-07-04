@@ -6,7 +6,7 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
         <p className="text-xl">
-          Hello! I am <strong>Oluwatoyin Jolaoso</strong> from Abuja Nigeria.  I am an enthusiastic frontend developer dedicated to creating captivating user experience through innovative web design. I have a strong foundation in HTML, CSS, and JavaScript and I specialize in building responsive, intuitive and interactive websites while optimizing performance and implementing modern frameworks. 
+          Hello! I am <strong>Agnes Omolola Oladeinde</strong> from Abuja Nigeria.I am an enthusiastic frontend developer dedicated to creating captivating user experience through innovative web design. I have a strong foundation in HTML, CSS, and JavaScript and I specialize in building responsive, intuitive and interactive websites while optimizing performance and implementing modern frameworks. 
         </p>
 
         <br />

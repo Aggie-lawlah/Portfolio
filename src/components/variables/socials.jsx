@@ -10,8 +10,8 @@ export const links = [
         LinkedIn <FaLinkedin size={30} />
       </>
     ),
-    href: "https://www.linkedin.com/in/oluwatoyin-jolaoso-9aa8101a8",
-    style: "rounded-tr-md"
+    href: "https://www.linkedin.com/in/agnes-oladeinde-12172b198",
+    style: "rounded-tr-md",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ export const links = [
         Github <FaGithub size={30} />
       </>
     ),
-    href: "https://github.com/DevOluwatoyin"
+    href: "https://github.com/Aggie-lawlah",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ export const links = [
         Mail <HiOutlineMail size={30} />
       </>
     ),
-    href: "mailto:oluwatoyinjolaoso001@gmail.com"
+    href: "mailto:oladeindeagnes@gmail.com",
   },
   {
     id: 4,
@@ -40,6 +40,6 @@ export const links = [
     ),
     href: "/resume.pdf",
     style: "rounded-br-md",
-    download: true
+    download: true,
   },
-]
+];
