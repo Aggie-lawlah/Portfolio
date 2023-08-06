@@ -1,5 +1,5 @@
 import { Link } from 'react-scroll'
-import heroImg from '../assets/heroImg.png'
+import heroImg from '../assets/image.jpg'
 import { IoIosArrowForward } from 'react-icons/io'
 
 const Home = () => {
