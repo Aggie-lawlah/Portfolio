@@ -1,3 +1,5 @@
+import { SiMicrosoftexcel } from "react-icons/si";
+
 export const tech = [
   {
     id: 1,
@@ -18,9 +20,9 @@ export const tech = [
   {
     id: 3,
     icon: (
-      <i className="devicon-tailwindcss-plain text-color-tailwind text-7xl md:text-[150px]"></i>
+      <SiMicrosoftexcel className="text-color-tailwind mx-auto text-7xl md:text-[150px]" />
     ),
-    title: "Tailwind css",
+    title: "Excel",
     style: "shadow-color-tailwind",
   },
   {
