@@ -11,12 +11,13 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl">
-          I am <strong>Agnes Omolola Oladeinde</strong>, a highly motivated Data
-          Analyst with certifications from DataCamp and ALX. I bring a unique
-          blend of technical proficiency and domain knowledge to the table. I am
-          proficient in SQL, Excel, and Python, I conduct comprehensive data
-          analysis, utilizing techniques such as exploratory data analysis,
-          statistics, and data visualization.
+          I am <strong>Agnes Omolola Oladeinde</strong>, a distinguished Data
+          Analyst trained by DataCamp and ALX. With expertise in SQL, Excel, and
+          Python, I seamlessly navigate the complexities of data, unveiling
+          hidden narratives. My approach to data is meticulous: every data point
+          offers a story, and I specialize in bringing those stories to the
+          fore. Across industries, I harness data to inform strategic decisions,
+          striving for precision and impact in every analysis.
         </p>
 
         <br />
