@@ -10,29 +10,13 @@ export const tech = [
   {
     id: 2,
     icon: (
-      <i className="devicon-css3-plain text-color-css text-7xl md:text-[150px]"></i>
+      <i className="devicon-python-plain text-color-javascript text-7xl md:text-[150px]"></i>
     ),
-    title: "CSS",
-    style: "shadow-color-css",
-  },
-  {
-    id: 3,
-    icon: (
-      <i className="devicon-javascript-plain text-color-javascript text-7xl md:text-[150px]"></i>
-    ),
-    title: "Javascript",
+    title: "Python",
     style: "shadow-color-javascript",
   },
   {
-    id: 4,
-    icon: (
-      <i className="devicon-react-original text-color-react text-7xl md:text-[150px]"></i>
-    ),
-    title: "React",
-    style: "shadow-color-react",
-  },
-  {
-    id: 5,
+    id: 3,
     icon: (
       <i className="devicon-tailwindcss-plain text-color-tailwind text-7xl md:text-[150px]"></i>
     ),
@@ -40,7 +24,7 @@ export const tech = [
     style: "shadow-color-tailwind",
   },
   {
-    id: 6,
+    id: 4,
     icon: (
       <i className="devicon-github-original text-color-github text-7xl md:text-[150px]"></i>
     ),
