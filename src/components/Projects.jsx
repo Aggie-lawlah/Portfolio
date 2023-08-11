@@ -13,10 +13,9 @@ const Projects = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
           {projects.map(({id, src, demo, code}) => (
           <div key={id} className="shadow-md shadow-gray-600 rounded-lg overflow-hidden group">
-            <img src={src} width={384} height={240} alt="calculator Ui" className="duration-200 group-hover:scale-105" />
+            <img src={src} width={384} style={{aspectRatio: "2"}} alt="calculator Ui" className="duration-200 group-hover:scale-105" />
             <div className="flex items-center justify-center">
-              {/* <a href={demo} target="_blank" rel="noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 text-center">Demo</a> */}
-              <a href={code} target="_blank" rel="noreferrer" className="px-6 py-3 m-4 duration-200 hover:scale-105 text-center">Report</a>
+              <a href={code} target="_blank" rel="noreferrer" className="px-6 py-3 m-4 duration-200 hover:scale-105 text-center">View Project</a>
             </div>
           </div>
           ))}

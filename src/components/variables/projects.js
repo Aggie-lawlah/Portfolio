@@ -10,25 +10,21 @@ export const projects = [
   {
     id: 1,
     src: datacamp,
-    // demo: 'https://08yhgg.csb.app/',
     code: "https://github.com/Aggie-lawlah/Datacamp-Associate-Analyst-Case-Study-Submission",
   },
   {
     id: 2,
     src: stat,
-    // demo: 'https://altschool-exam-beta.vercel.app/',
     code: "https://github.com/Aggie-lawlah/S-P-stock-prices-project",
   },
   {
     id: 3,
     src: customerChurn,
-    // demo: 'https://stately-gumption-b73c43.netlify.app/',
-    code: "https://github.com/DevOluwatoyin/movies",
+    code: "https://github.com/Aggie-lawlah/No-show-appointment",
   },
   {
     id: 4,
     src: noShow,
-    // demo: 'https://stately-gumption-b73c43.netlify.app/',
     code: "https://github.com/Aggie-lawlah/No-show-appointment",
   },
 ];
