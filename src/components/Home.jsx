@@ -16,7 +16,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">Ms. Excel, SQL, Python</p>
           <div>
             <Link
-              to="portfolio"
+              to="projects"
               smooth
               duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
